@@ -11,23 +11,22 @@ This repository contains my notes, summaries, and insights from deep diving into
 ### 2024
 - Coming soon...
 
-## How to Use This Repository
+## Repository Structure
 
-Each paper has its own markdown file in the `/papers` directory with:
-- Summary of key contributions
-- Important concepts and terminology
-- Personal insights and understanding
-- Questions for further exploration
-- Implementation notes (when applicable)
+Each paper has its own directory under `/papers` organized as:
+```
+papers/
+└── [paper-name]/
+    ├── summary.md        # Quick overview and key contributions
+    ├── notes.md          # Detailed study notes and paper-specific resources
+    ├── presentation.pptx # Presentation materials (if applicable)
+    └── slides.pdf        # PDF exports or handwritten notes
+```
 
 ## Study Group
 
 This documentation is part of a collaborative study group focused on understanding the foundations of modern ML/AI technologies. We meet regularly to discuss papers and share insights.
 
-## Resources
-
-- [Useful Links](resources/useful-links.md) - Collection of helpful ML resources
-- [Terminology](resources/terminology.md) - Key terms and definitions
 
 ## Contributing
 
