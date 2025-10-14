@@ -75,5 +75,5 @@ It’s not just about architectures — it covers probability, optimization, the
 These slides are mostly **screenshots and notes** from videos, talks, and our internal sessions.  
 They’re annotated in real time during the discussions, so some context might be missing — use them as visual guides rather than full explanations.
 
-- [Download Presentation Slides](../doc/Attention_Notes.pptx)
+- [Download Presentation Slides](../AttentionNotes.pptx)
 - [Download Hand Notes](../doc/AttentionNotes.pdf)
