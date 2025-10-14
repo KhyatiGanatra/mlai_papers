@@ -20,6 +20,10 @@ A **super intuitive visual breakdown** of the transformer architecture.
 This is one of those videos I keep revisiting — it helps solidify what’s happening at every step of the attention mechanism and how data flows through the layers.  
 Perfect if you like mental models over equations.
 
+**[Transformers Deep Dive Series](https://youtu.be/lRylkiFdUdk)
+A series of videos that goes deep into every aspect of the paper. Helped me **immensely** to understand deeply the architecture and intuition behind approaches proposed.
+Will be great if you have some material that covers intuition, math, deep dive of different concepts in the paper.
+
 ---
 
 ## 🧩 Interactive Tool
